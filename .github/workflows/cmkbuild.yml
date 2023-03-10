@@ -1,4 +1,4 @@
-name: modern-nutrition
+name: cppcmak
 
 on: [push, pull_request]
 
